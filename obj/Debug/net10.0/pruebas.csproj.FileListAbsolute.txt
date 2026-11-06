@@ -1,0 +1,14 @@
+/Users/han/Documents/CSHARP/pruebas/bin/Debug/net10.0/pruebas
+/Users/han/Documents/CSHARP/pruebas/bin/Debug/net10.0/pruebas.deps.json
+/Users/han/Documents/CSHARP/pruebas/bin/Debug/net10.0/pruebas.runtimeconfig.json
+/Users/han/Documents/CSHARP/pruebas/bin/Debug/net10.0/pruebas.dll
+/Users/han/Documents/CSHARP/pruebas/bin/Debug/net10.0/pruebas.pdb
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.AssemblyInfoInputs.cache
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.AssemblyInfo.cs
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.csproj.CoreCompileInputs.cache
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.dll
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/refint/pruebas.dll
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.pdb
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/pruebas.genruntimeconfig.cache
+/Users/han/Documents/CSHARP/pruebas/obj/Debug/net10.0/ref/pruebas.dll
