@@ -5,6 +5,11 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>mytexteditor</ToolCommandName>
+    <PackageId>MyTextEditor</PackageId>
+    <Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>

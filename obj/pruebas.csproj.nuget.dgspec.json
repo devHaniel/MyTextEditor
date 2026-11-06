@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "/Users/han/Documents/CSHARP/pruebas/pruebas.csproj",
-        "projectName": "pruebas",
+        "projectName": "MyTextEditor",
         "projectPath": "/Users/han/Documents/CSHARP/pruebas/pruebas.csproj",
         "packagesPath": "/Users/han/.nuget/packages/",
         "outputPath": "/Users/han/Documents/CSHARP/pruebas/obj/",
